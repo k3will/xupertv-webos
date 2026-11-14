@@ -1,7 +1,7 @@
 {
- "version": "3.5.3",
- "sha256": "cecb418ffbb69f44068c4a3754040a7b15d0085d58c1eaf76b5e655ac09ecec8",
- "changelog": "Ver más en Recién agregadas y Taquilla, aviso de actualización al abrir, Más estrenos sin películas viejas",
+ "version": "3.5.4",
+ "sha256": "b356feac186d330335ce64070ca07282eba22a628b99ef87064a5b3845e2f1a9",
+ "changelog": "Pestañas Destacados y Películas fusionadas; Ver más con portadas y navegación rápida",
  "releaseDate": "2026-11-13",
  "taquilla": [
   "1||Spider-Man: Un nuevo día;Spiderman: Un nuevo día;Spider-Man: Brand New Day",
